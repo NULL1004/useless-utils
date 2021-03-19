@@ -1,0 +1,3 @@
+# useless-utils
+
+Useless javascript utils...
